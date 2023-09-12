@@ -3,6 +3,6 @@
 #### student number: 202334304
 
 
-I'm a student of Gachon University.
+I'm a student at Gachon University.
 
 I look forward to all future coding with you.

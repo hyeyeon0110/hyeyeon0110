@@ -1,5 +1,6 @@
 # hyeyeon's Github
-#email: hyeyeon0110@gachon.ac.kr
+#### email: hyeyeon0110@gachon.ac.kr
+#### student number: 202334304
 
 <!--
 **hyeyeon0110/hyeyeon0110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
